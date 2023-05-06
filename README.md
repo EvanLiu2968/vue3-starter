@@ -15,14 +15,12 @@ Vue template for starter using Vue3 + TypeScript + Vite + Pinia + Unocss 🚀
 -   [x] [Vue Router](https://github.com/vuejs/router)
 -   [x] [TypeScript](https://www.typescriptlang.org/)
 -   [x] [Vite](https://vitejs.dev/) Next Generation Frontend Tooling
--   [x] [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) Zero-config PWA for Vite
 -   [x] [Pinia](https://pinia.vuejs.org/) The Vue Store that you will enjoy using
 -   [x] [Element Plus](https://github.com/element-plus/element-plus) 🎉 A Vue.js 3 UI Library made by Element team
 -   [x] [vueuse](https://github.com/vueuse/vueuse) Collection of essential Vue Composition Utilities for Vue 2 and 3
 -   [x] [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 -   [x] 🎨 [UnoCSS](https://github.com/antfu/unocss) - the instant on-demand atomic CSS engine
 -   [x] 😃 [Use icons from any icon sets with classes](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
--   [x] [msw](https://mswjs.io/docs/) Seamless REST/GraphQL API mocking library for browser and Node.js.
 -   [x] [ESLint](https://eslint.org/)
 -   [x] [Prettier](https://prettier.io/)
 -   [x] [Airbnb Style Guide](https://github.com/airbnb/javascript)
@@ -33,16 +31,16 @@ Vue template for starter using Vue3 + TypeScript + Vite + Pinia + Unocss 🚀
 
 ```bash
 # 0. Clone project
-git clone https://github.com/yugasun/vue-ts-starter
+git clone https://github.com/EvanLiu2968/vue3-starter
 
 # 1. Install dependencies
-pnpm install
+yarn install
 
 # 2. Start develop server
-pnpm dev
+yarn dev
 
 # 3. Build
-pnpm build
+yarn build
 ```
 
 ## Recommended IDE Setup
@@ -51,4 +49,4 @@ pnpm build
 
 ## License
 
-[MIT @yugasun](./LICENSE)
+[MIT @EvanLiu2968](./LICENSE)
